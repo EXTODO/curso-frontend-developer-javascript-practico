@@ -160,7 +160,7 @@
 
 /* Aside (Product detail carrito) */
 
-.product-detail {
+aside {
     width: 360px;
     background-color: var(--white);
     padding: 0 24px;
